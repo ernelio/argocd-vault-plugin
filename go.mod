@@ -11,5 +11,5 @@ require (
 	github.com/spf13/viper v1.8.1
 	k8s.io/apimachinery v0.21.3
 	k8s.io/client-go v0.21.3
-	sigs.k8s.io/yaml v1.2.0
+	sigs.k8s.io/yaml v1.3.0
 )
