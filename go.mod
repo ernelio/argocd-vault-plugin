@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/vault/api v1.1.1
 	github.com/hashicorp/vault/sdk v0.2.1
 	github.com/spf13/cobra v1.2.1
-	github.com/spf13/viper v1.8.1
+	github.com/spf13/viper v1.15.0
 	k8s.io/apimachinery v0.21.3
 	k8s.io/client-go v0.21.3
 	sigs.k8s.io/yaml v1.2.0
